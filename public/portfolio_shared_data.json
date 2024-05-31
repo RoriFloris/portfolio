@@ -1,0 +1,136 @@
+{
+  "basic_info": {
+    "name": "I'm Rori Floris.",
+    "titles": [
+      "I'm a creative Blockchain developer."
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Solidity",
+        "class": "devicon-typescript-plain",
+        "level": "95"
+      },
+      {
+        "name": "Rust",
+        "class": "devicon-rust-plain",
+        "level": "95"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "80"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "70"
+      },
+      {
+        "name": "Go",
+        "class": "devicon-go-plain",
+        "level": "75"
+      },
+      {
+        "name": "C#",
+        "class": "devicon-csharp-plain",
+        "level": "65"
+      }
+    ],
+    "icons1": [
+      {
+        "name": "Blockchain",
+        "class": "devicon-typescript-plain",
+        "level": "95"
+      },
+      {
+        "name": "Ethereum",
+        "class": "devicon-rust-plain",
+        "level": "95"
+      },
+      {
+        "name": "Blockchain Platforms",
+        "class": "devicon-javascript-plain",
+        "level": "80"
+      },
+      {
+        "name": "Amazon Web Services (AWS)",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      }
+    ],
+    "icons2": [
+      {
+        "name": "Web3.js",
+        "class": "devicon-typescript-plain",
+        "level": "95"
+      },
+      {
+        "name": "Node.js",
+        "class": "devicon-rust-plain",
+        "level": "95"
+      },
+      {
+        "name": "REST APIs",
+        "class": "devicon-javascript-plain",
+        "level": "80"
+      },
+      {
+        "name": "Socket.IO",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "React",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      }
+    ],
+    "icons3": [
+      {
+        "name": "MySQL",
+        "class": "devicon-typescript-plain",
+        "level": "95"
+      },
+      {
+        "name": "BigchainDB",
+        "class": "devicon-rust-plain",
+        "level": "95"
+      },
+      {
+        "name": "Redis",
+        "class": "devicon-javascript-plain",
+        "level": "80"
+      },
+      {
+        "name": "Memcached",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "MongoDB",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      }
+    ]
+  }
+}

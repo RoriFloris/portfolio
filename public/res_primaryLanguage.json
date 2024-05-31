@@ -1,0 +1,145 @@
+{
+  "basic_info": {
+    "description_header": "Hello",
+    "description": "I'm Rori Floris. I'm Blockchain developer. Experienced blockchain developer with a solid background in computer science and 5 years of dedicated experience in the field. Proficient in smart contract development, decentralized application (DApp) deployment, and blockchain optimization. Skilled in leading cross-functional teams to deliver innovative solutions across diverse industries. Passionate about leveraging blockchain technology to drive positive change and create value. Committed to continuous learning and staying updated on industry trends. Ready to apply expertise to challenging projects in the dynamic world of blockchain development.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Lisk Website Design",
+      "description": "Lisk is a blockchain application platform. We make blockchain accessible by creating a world in which everyone benefits from this technology.",
+      "images": [
+        "/react-frontend-dev-portfolio/images/projectImages/lisk.png"
+      ],
+      "url": "https://lisk.io",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Amulet Website Design",
+      "startDate": "2018",
+      "description": "Amulet puts reputation on the blockchain, exposing the accuracy of financial experts so traders can filter out the BS.",
+      "images": [
+        "/react-frontend-dev-portfolio/images/projectImages/amulet.png"
+      ],
+      "url": "https://amuletplatform.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Syscoin Website Design",
+      "startDate": "2015",
+      "description": "The powerful multi-purpose platform that puts your business on the blockchain",
+      "images": [
+        "/react-frontend-dev-portfolio/images/projectImages/syscoin.png"
+      ],
+      "url": "https://syscoin.org",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "VAIOT Website Design",
+      "startDate": "2015",
+      "description": "Blockchain and Artificial Intelligence (AI) are two ground-breaking technological trends which have the potential to become even more revolutionary when put together.",
+      "images": [
+        "/react-frontend-dev-portfolio/images/projectImages/vaiot.png"
+      ],
+      "url": "https://vaiot.ai",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Freelance Work",
+      "title": "Blockchain Developer",
+      "years": "2021 - present",
+      "mainTech": [
+        " Node.js, Truffle, Web 3.0, JavaScript, Solidity, Blockchain"
+      ],
+      "technologies": [
+        "Developed secure Solidity smart contracts for the Ethereum blockchain.",
+        "Conducted security audits of Solidity smart contracts.",
+        "Implemented interaction with Ethereum smart contracts using JavaScript and web3.",
+        "Created ICO smart contracts.",
+        "Acted as token economics consultant."
+      ]
+    },
+    {
+      "company": "Imapp",
+      "title": "Blockchain Developer",
+      "years": "2019 - 2021",
+      "mainTech": [
+        "Blockchain, Hyperledger, Elixir, Docker, Angular, Digital Asset Modeling Language (DAML)"
+      ],
+      "technologies": [
+        "Prepared a matching engine for market offers such as asks and bids in Elixir.",
+        "Made a simple front-end demo application for the client in Angular.",
+        "Developed a communication layer between DAML on Fabric and back-end applications in Elixir.",
+        "Prepared HLF infrastructure, including channels, organizations, and external chain code."
+      ]
+    },
+    {
+      "company": "Forward Edge",
+      "title": "Blockchain Engineer",
+      "years": "2016 - 2019",
+      "mainTech": [
+        "Tendermint, Go, Smart Contracts, Ethereum Smart Contracts"
+      ],
+      "technologies": [
+        "Worked on picking the correct blockchain technology for the client's needs.",
+        "Implemented a prototype on the Tendermint blockchain platform.",
+        "Wrote integration services in Golang, which serve as a blockchain's outer layer."
+      ]
+    }
+  ]
+}
