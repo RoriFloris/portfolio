@@ -2,18 +2,6 @@ import React, { Component } from "react";
 
 class Footer extends Component {
   render() {
-    if (this.props.sharedBasicInfo) {
-      var networks = this.props.sharedBasicInfo.social.map(function (network) {
-        return (
-          <span key={network.name} className="m-4">
-            <h1>
-              Contact me
-            </h1>
-          </span>
-        );
-      });
-    }
-
     return (
       <footer>
         <div className="col-md-12">

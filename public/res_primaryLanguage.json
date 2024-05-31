@@ -14,7 +14,7 @@
       "title": "Lisk Website Design",
       "description": "Lisk is a blockchain application platform. We make blockchain accessible by creating a world in which everyone benefits from this technology.",
       "images": [
-        "/react-frontend-dev-portfolio/images/projectImages/lisk.png"
+        "/images/projectImages/lisk.png"
       ],
       "url": "https://lisk.io",
       "technologies": [
@@ -37,7 +37,7 @@
       "startDate": "2018",
       "description": "Amulet puts reputation on the blockchain, exposing the accuracy of financial experts so traders can filter out the BS.",
       "images": [
-        "/react-frontend-dev-portfolio/images/projectImages/amulet.png"
+        "/images/projectImages/amulet.png"
       ],
       "url": "https://amuletplatform.com",
       "technologies": [
@@ -56,7 +56,7 @@
       "startDate": "2015",
       "description": "The powerful multi-purpose platform that puts your business on the blockchain",
       "images": [
-        "/react-frontend-dev-portfolio/images/projectImages/syscoin.png"
+        "/images/projectImages/syscoin.png"
       ],
       "url": "https://syscoin.org",
       "technologies": [
@@ -79,7 +79,7 @@
       "startDate": "2015",
       "description": "Blockchain and Artificial Intelligence (AI) are two ground-breaking technological trends which have the potential to become even more revolutionary when put together.",
       "images": [
-        "/react-frontend-dev-portfolio/images/projectImages/vaiot.png"
+        "/images/projectImages/vaiot.png"
       ],
       "url": "https://vaiot.ai",
       "technologies": [

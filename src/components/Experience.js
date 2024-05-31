@@ -4,7 +4,6 @@ import {
   VerticalTimelineElement,
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
-import Badge from "react-bootstrap/Badge";
 
 class Experience extends Component {
   render() {
