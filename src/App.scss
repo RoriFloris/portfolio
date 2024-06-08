@@ -38,8 +38,9 @@ header {
 	height: 520px;
 	min-height: 450px;
 	width: 100%;
-	background-image: url(./Images/MAN.jfif);
+	background-image: url(./Images/man.jpg);
 	background-size: cover;
+	object-fit: cover;
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
